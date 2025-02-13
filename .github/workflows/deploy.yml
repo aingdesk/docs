@@ -1,16 +1,15 @@
-name: 自动构建静态站点
-
+name: Deploy to build branch
 on:
   push:
     branches:
       - main
-    # 如果你想要进一步定义触发、路径以及其他内容，请检阅 Github Actions 文档
-    # https://docs.github.com/zh/actions/using-workflows/workflow-syntax-for-github-actions#on
-
 jobs:
   build:
-    name: 构建 Docusaurus
+    name: Build Docusaurus and deploy to build branch
     runs-on: ubuntu-latest
+    # Grant write permissions to the GITHUB_TOKEN
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
         with:
@@ -18,13 +17,11 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-
-      - name: 安装依赖
+      - name: Install dependencies
         run: yarn install --frozen-lockfile
-      - name: 构建网站
+      - name: Build the website
         run: yarn build
-
-      - name: Deploy to GitHub Pages
+      - name: Deploy to build branch
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: build
