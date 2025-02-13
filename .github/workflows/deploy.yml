@@ -1,4 +1,4 @@
-name: 部署到 GitHub Pages
+name: 自动构建静态站点
 
 on:
   push:
@@ -24,13 +24,8 @@ jobs:
       - name: 构建网站
         run: yarn build
 
-      - name: 上传构建制品
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: build
-
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          branch: gh-pages
+          branch: build
           folder: build
