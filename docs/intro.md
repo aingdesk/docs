@@ -1,49 +1,30 @@
 ---
 sidebar_position: 1
-description: 宝塔面板是服务器管理工具
+description: Deploy DeepSeek or other AI models on your computer with just one click.
 slug: /
 ---
 
-# Tutorial Intro
+# Introduction
+🚀 Brief Introduction in One Sentence
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Deploy DeepSeek or other AI models on your computer with just one click.
 
-## Getting Started
+## ✅ Core Features
 
-Get started by **creating a new site**.
+Deploy DeepSeek or other AI models with one click.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Simple to operate.
 
-### What you'll need
+Built - in chat interface.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+Share it with friends online (coming soon).
 
-## Generate a new site
+## ✨ Technical Highlights
 
-Generate a new Docusaurus site using the **classic template**.
+Visual one - click deployment.
 
-The classic template will automatically be added to your project after you run the command:
+## 📥 Quick Installation
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+Download from the official website.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Download from GitHub.
