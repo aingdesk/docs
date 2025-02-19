@@ -1,0 +1,10 @@
+{
+  "sidebar.tutorialSidebar.category.Installation": {
+    "message": "安装",
+    "description": "The label for category Installation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Guide": {
+    "message": "指南",
+    "description": "The label for category Guide in sidebar tutorialSidebar"
+  }
+}
