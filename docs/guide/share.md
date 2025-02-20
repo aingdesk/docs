@@ -3,7 +3,6 @@ sidebar_position: 3
 description: Share the AI model with friends for their use.
 ---
 # Share
-
 ## Create a Shareable Link
 1. Click the share button at the top right corner of the interface.
 2. Select the model, set a name, and click the share button.
