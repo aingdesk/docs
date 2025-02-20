@@ -4,5 +4,7 @@
   "link": {
     "type": "generated-index",
     "description": "3 steps to use DeepSeek on your computer"
-  }
+  },
+  "collapsible": true,
+  "collapsed": false
 }
