@@ -17,7 +17,7 @@ Simple to operate.
 
 Built - in chat interface.
 
-Share it with friends online (coming soon).
+Share it with friends online .
 
 ## ✨ Technical Highlights
 
@@ -25,6 +25,6 @@ Visual one - click deployment.
 
 ## 📥 Quick Installation
 
-Download from the official website.
+[Download from the official website.](https://www.aingdesk.com/en/download.html)
 
-Download from GitHub.
+[Download from GitHub.](https://github.com/aingdesk/AingDesk/releases)
