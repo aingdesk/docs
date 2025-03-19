@@ -39,4 +39,3 @@ docker run -d \
   -w /aingdesk \
   docker.cnb.cool/aingdesk/aingdesk
 ```
-
