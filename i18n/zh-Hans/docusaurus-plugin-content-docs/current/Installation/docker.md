@@ -9,7 +9,10 @@ description: 使用 Docker 部署
 ```bash
 mkdir -p aingdesk
 cd aingdesk
-wget https://cnb.cool/aingdesk/AingDesk/-/blob/server/docker-compose.yml
+wget https://cnb.cool/aingdesk/AingDesk/-/git/raw/server/docker-compose.yml
+# 新版docker请运行以下命令
+docker compose up -d
+# 旧版docker请运行以下命令
 docker-compose up -d
 ```
 

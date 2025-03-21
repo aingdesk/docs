@@ -8,7 +8,10 @@ description: Deploy using Docker
 ```bash
 mkdir -p aingdesk
 cd aingdesk
-wget https://cnb.cool/aingdesk/AingDesk/-/blob/server/docker-compose.yml
+wget https://cnb.cool/aingdesk/AingDesk/-/git/raw/server/docker-compose.yml
+# Run
+docker compose up -d
+# or
 docker-compose up -d
 ```
 
