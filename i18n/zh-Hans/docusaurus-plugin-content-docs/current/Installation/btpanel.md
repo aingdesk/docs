@@ -18,7 +18,9 @@ description: 使用宝塔面板部署
 ### 部署 AingDesk
 1. 登录宝塔面板，在菜单栏中点击 Docker，根据提示安装 Docker 和 Docker Compose 服务。
 2. 在`Docker-应用商店`中找到 `AingDesk`，点击`安装`
+![alt text](img/btpaneldockerstore.png)
 3. 设置域名等基本信息，点击`确定`
+![alt text](img/btpaneldockerinstall.png)
    - 名称：应用名称，默认`AingDesk-随机字符`
    - 版本选择：默认`latest`
    - 域名：如需通过域名直接访问，请在此配置域名并将域名解析到服务器
@@ -35,3 +37,4 @@ http://yourdomain/
 
 http://your_server_ip:7071/
 ```
+![alt text](img/btpanelaingdesk.png)
