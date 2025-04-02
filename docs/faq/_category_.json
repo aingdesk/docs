@@ -1,0 +1,9 @@
+{
+  "label": "FAQ",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "FAQ"
+  },
+  "collapsible": true
+}

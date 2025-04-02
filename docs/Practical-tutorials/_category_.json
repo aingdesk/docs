@@ -1,0 +1,9 @@
+{
+  "label": "Practical Tutorials",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Practical Tutorials"
+  },
+  "collapsible": true
+}
