@@ -20,6 +20,6 @@ slug: /
 * 简单好用，对AI新手友好
 
 ## 📥快速安装
-- [官网下载](https://www.aingdesk.com/zh/download.html)
+- [官网下载](https://www.aingdesk.com/zh/download)
 
 - [GitHub下载](https://github.com/aingdesk/AingDesk/releases)

@@ -7,7 +7,7 @@ macOS 版本安装指南
 
 ## 下载
 从官网下载最新版本的 AingDesk。
-- [AingDesk 官网](https://www.aingdesk.com/zh/download.html)
+- [AingDesk 官网](https://www.aingdesk.com/zh/download)
 
 ## 安装
 1. 双击下载的安装包，开始安装。

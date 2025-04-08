@@ -25,6 +25,6 @@ Visual one - click deployment.
 
 ## 📥 Quick Installation
 
-[Download from the official website.](https://www.aingdesk.com/en/download.html)
+[Download from the official website.](https://www.aingdesk.com/en/download)
 
 [Download from GitHub.](https://github.com/aingdesk/AingDesk/releases)
